@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Resisteration-bg{
+   
+    width: 25vh;
+    height: 100vh;  
+}
+.user-bg{
+    
+    border-radius: 5px;
+    width: 65vh;
+    height: 25vh;
+}
+@media only screen and (max-width: 500px) {
+    .hide-screen{
+        display: none;
+    }
+    
+}
